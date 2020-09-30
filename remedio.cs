@@ -2,10 +2,10 @@ using System;
 
 class Remedio {
 
-  public CadastraRemedio{
+  public CadastraRemedio {
 
-  public string nome_remedio;
-  public string tipo_remedio;
+  string nome_remedio;
+  string tipo_remedio;
   
   DateTime data = new DateTime();
   Console.WriteLine(data);
